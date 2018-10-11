@@ -2,9 +2,9 @@
 
 ## Objectives
 
-1. Describe what happens in the updating phase of the React component lifecycle
-2. Briefly introduce React Refs and their role in the component lifecycle
-3. Practice the using `shouldComponentUpdate` and `componentDidUpdate`.
+1.  Describe what happens in the updating phase of the React component lifecycle
+2.  Briefly introduce React Refs and their role in the component lifecycle
+3.  Practice the using `shouldComponentUpdate` and `componentDidUpdate`.
 
 ## Overview
 
@@ -115,7 +115,6 @@ DOM directly comes with some caution as it circumvents React's default behavior.
 For this reason, it is better to handle most style changes using an external CSS
 file or in-line within JSX, if possible.
 
-
 #### `shouldComponentUpdate`
 
 **Most of the time, we want to let React handle its updating.** Although
@@ -198,6 +197,6 @@ And get an instant, easy reduction in unnecessary updates!
 
 ## Resources
 
-- [React: Component Specs and Lifecycle](https://reactjs.org/docs/react-component.html)
+-   [React: Component Specs and Lifecycle](https://reactjs.org/docs/react-component.html)
 
 [pure]: https://reactjs.org/docs/react-api.html#reactpurecomponent
